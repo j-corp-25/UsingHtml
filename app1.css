@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-family:cursive;
+    text-decoration: underline wavy gray;
+    color: lightcoral;
+}
+
+#Test {
+    background-color: green;
+
+}
+
+#Test1 {
+    background-color: greenyellow;
+}
+#Test2 {
+    background-color: salmon;
+}
+#Test3 {
+    background-color: lightblue;
+}
+
+.tag {
+    color: darkblue;
+}
+
+li a {
+    color: rgb(0, 0, 255);
+}
